@@ -1,0 +1,5 @@
+Just a quick attempt to interface with the Apple Sudden Motion Sensor to play sounds like a drum machine. The interface to read from the SMS works well, however I encountered difficulties when trying to play audio files. Using afplay proved to be too slow, and using Core Audio tools was just troublesome. One day I'll look into this better, however.
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
+
